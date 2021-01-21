@@ -1,0 +1,3 @@
+name: global-accelerator-pulumi
+runtime: nodejs
+description: Global Accelerator Demo using React and Pulumi

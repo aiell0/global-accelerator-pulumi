@@ -1,0 +1,5 @@
+config:
+  aws:profile: default
+  aws:region: us-west-2
+  global-accelerator-demo:europeStack: aiell0/global-accelerator-demo/webserver-eu
+  global-accelerator-demo:westStack: aiell0/global-accelerator-demo/webserver-west
